@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/fanoutsidecar@sha256:e14cd81992483466efdf299924739c64256ab7705e8f8622063137566dd5772d
